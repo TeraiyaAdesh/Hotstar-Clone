@@ -1,11 +1,7 @@
 # Disney+ Hotstar-Clone
-Disney+ Hotstar Clone using HTML, CSS and JavaScript
+Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
 
 <img width="942" alt="Screenshot 2024-01-29 201242" src="https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/aae84e0e-c38a-407c-a1f5-3d90ef228955">
-
-# Disney+ Hotstar Front-end Clone
-
-Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
 
 # Installation
 
