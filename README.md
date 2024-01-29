@@ -3,13 +3,18 @@ Welcome to this repository containing a front-end clone of the Disney+ Hotstar w
 
 <img width="942" alt="Screenshot 2024-01-29 201242" src="https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/aae84e0e-c38a-407c-a1f5-3d90ef228955">
 
+<p align="center">
+  <a href="https://github.com/TeraiyaAdesh/FoodShades/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+  <a href="https://github.com/TeraiyaAdesh/FoodShades/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
+</p>
+
 # Installation
 
 1. Clone the repository
 2. Open the index.html file in your browser
 3. Done!
 
-## Libraries/Technologies used
+# Libraries/Technologies used
 
 - HTML
 - CSS
@@ -20,7 +25,7 @@ Welcome to this repository containing a front-end clone of the Disney+ Hotstar w
 https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/18bb10ff-62a8-4166-ad57-2456bc507179
 
 
-## Contributing
+# Contributing
 
 Contributions to this project are highly encouraged! Whether you want to improve the user interface, enhance functionality, fix bugs, or add new features, your contributions are valuable. Please open an issue or submit a pull request if you have any ideas or improvements to share.
 
