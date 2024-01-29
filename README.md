@@ -19,3 +19,9 @@ Welcome to this repository containing a front-end clone of the Disney+ Hotstar w
 
 https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/18bb10ff-62a8-4166-ad57-2456bc507179
 
+
+## Contributing
+
+Contributions to this project are highly encouraged! Whether you want to improve the user interface, enhance functionality, fix bugs, or add new features, your contributions are valuable. Please open an issue or submit a pull request if you have any ideas or improvements to share.
+
+Recreate the Disney+ Hotstar experience with this clone project. Dive into the world of streaming and entertainment, and make it your own. If you have any questions or suggestions, feel free to reach out! Thank you.
