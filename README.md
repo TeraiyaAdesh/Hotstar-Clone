@@ -6,6 +6,7 @@ Disney+ Hotstar Clone using HTML, CSS and JavaScript
 
 # Demonstration Video
 
+https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/18bb10ff-62a8-4166-ad57-2456bc507179
 
 
 # Disney+ Hotstar Clone
