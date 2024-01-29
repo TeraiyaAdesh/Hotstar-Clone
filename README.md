@@ -1,11 +1,11 @@
 # Hotstar-Clone
 Disney+ Hotstar Clone using HTML, CSS and JavaScript
 
+<img width="942" alt="Screenshot 2024-01-29 201242" src="https://github.com/TeraiyaAdesh/Hotstar-Clone/assets/97627129/aae84e0e-c38a-407c-a1f5-3d90ef228955">
 
 
 # Demonstration Video
 
-https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/04e7598a-f7f6-4f3f-a295-85fc9d2a9fc2
 
 
 # Disney+ Hotstar Clone
